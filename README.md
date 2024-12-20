@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @gmqueens
+- 👋 Hi, I’m Gerome
 - 👀 I’m interested in Neuromechanics
-- 🌱 I’m currently learning how to use git
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me gm99@queensu.ca
 
